@@ -1,0 +1,6 @@
+non carnivore est ajouté à la base de faits on execute la regle r3
+oiseau est ajouté à la base de faits on execute la regle r15
+base de faits :
+[{plumes,explication : -1}{non vole,explication : -1}{nage,explication : -1}{noir_et_blanc,explication : -1}{mange_herbe,explication : -1}{non carnivore,explication : 3}{oiseau,explication : 15}]
+but : oiseau
+resultat : OK
